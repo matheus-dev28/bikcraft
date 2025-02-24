@@ -1,23 +1,28 @@
-body{
+body {
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
-    height: 2000px;
-}
-
-ul{
+    color: #111111;
+    padding-bottom: 600px;
+  }
+  
+  h1,
+  ul,
+  p {
+    margin: 0px;
+  }
+  
+  ul {
     padding: 0px;
     list-style: none;
-}
-
-a{
+  }
+  
+  a {
     text-decoration: none;
-}
-
-img{
+    color: inherit;
+  }
+  
+  img {
     max-width: 100%;
     display: block;
-}
-
-h1, ul, p{
-    margin: 0px;
-}
+  }
+  
